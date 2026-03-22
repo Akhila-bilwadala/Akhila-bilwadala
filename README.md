@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Akhila Bilwadala S 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Akhila%20Bilwadala%20S&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=I+Build+Your+Digital+Workforce;Orchestrating+AI+to+Handle+the+Heavy+Lifting;Turning+Manual+Tasks+into+Autonomous+APIs;The+Architect+of+Modern+AI+Coworkers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+the+Making;Crafting+Beautiful+Web+Experiences;Turning+Code+into+Clean+Solutions" />
 </p>
 
 ---
@@ -12,38 +14,33 @@
 
 ---
 
-### 🚀 The Mission
-> **"Turning the complex into the seamless. I don't just write code—I build your digital coworkers."**
+### ✨ About Me
+> **"Turning the complex into the seamless. Building the future of the web, one line at a time."**
 
-I am a **Full-Stack Developer** focused on the intersection of **Web Experience** and **Agentic Intelligence**. I build systems that don't just "chat," but actually *act*—integrating LLMs into real-world workflows to automate the "boring" and amplify the human.
+I am an **Aspiring Full-Stack Developer** with a sharp eye for **Modern Design** and a deep commitment to **Clean Code**. I love taking ideas and turning them into interactive digital realities.
+
+- 🏗️ Building with **React**, **Node**, and **Python**
+- 🎨 Focused on creating **Fluid UI/UX** and **Responsive Designs**
+- 🌱 Constant learner, always exploring new technologies
+- 💡 "Simplicity is the ultimate sophistication."
 
 ---
 
-### 🛠️ The Toolkit
+### 💻 My Dynamic Toolbox
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,py,nodejs,express,mongodb,git,docker&perline=11" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,py,nodejs,express,mongodb,git&perline=10" />
+</p>
 
 <br/>
 
-| **Focus Area** | **Key Technologies** |
-| :--- | :--- |
-| **Agentic AI** | LangGraph, ReAct, RAG Pipelines, OpenAI/Anthropic APIs |
-| **Full Stack** | React.js, Node.js, Express, Modern CSS/Sass |
-| **Infrastructure** | Docker, Git, CI/CD, MongoDB |
-
----
-
-### 📊 Performance Metrics
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhila-bilwadala&show_icons=true&theme=radical&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhila-bilwadala&theme=radical&hide_border=true&area=true" />
-</p>
+</div>
 
 ---
 
@@ -57,6 +54,6 @@ I am a **Full-Stack Developer** focused on the intersection of **Web Experience*
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </p>
 
